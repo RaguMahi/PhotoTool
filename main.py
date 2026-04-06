@@ -13,7 +13,7 @@ from datetime import datetime
 import zipfile  # Add zipfile import for batch downloads
 
 def show_homepage():
-    st.title("🖼️ Image Enhancement Studio")
+    st.title("🖼️ Image Enhancement Studio Bolt")
     st.write("Welcome to the Image Enhancement Studio! Choose a section to begin:")
 
     col1, col2, col3, col4, col5, col6 = st.columns(6)
